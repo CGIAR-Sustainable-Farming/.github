@@ -10,7 +10,7 @@ Part of CGIAR's 2025–2030 research portfolio, the program develops integrated 
 
 ## About this GitHub organization
 
-This organization hosts research software, data workflows and analytical tools for Sustainable Farming, alongside resources developed through Excellence in Agronomy. It is also the intended home for the SFP data hub, currently in preparation.
+This organization hosts research software, data workflows and analytical tools for Sustainable Farming, alongside resources developed through Excellence in Agronomy. It also hosts the [SFP Data Hub](https://cgiar-sustainable-farming.github.io/), connecting selected farming datasets, metadata drafts and shared guidance from the CGIAR Climate Data Hub.
 
 Explore the [repositories](https://github.com/orgs/CGIAR-Sustainable-Farming/repositories) and the [Evidence for Resilient Agriculture (ERAg) resource](https://cgiar-sustainable-farming.github.io/ERAg/). Each repository documents its own purpose, status, contributors and licence.
 
