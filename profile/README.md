@@ -1,4 +1,4 @@
-<img width="240" height="57" alt="CGIAR Sustainable Farming" src="https://github.com/user-attachments/assets/9dbe221e-6204-407b-a60e-4e97c23850fe" />
+<img width="480" alt="CGIAR Sustainable Farming" src="https://github.com/user-attachments/assets/8c6054e1-8819-4e54-abdc-74cafbd3c483" />
 
 # CGIAR Sustainable Farming
 
